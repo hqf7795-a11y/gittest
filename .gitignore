@@ -1,9 +1,8 @@
-# 특정 확장자 제외하고 싶으면 알아서 써라
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
-*.txt
+
 # C extensions
 *.so
 
